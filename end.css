@@ -1,0 +1,25 @@
+#result {
+    font-size: 2rem;
+    /* color: white; */
+    line-height: 2rem;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.win {
+    color: rgb(0, 255, 21);
+}
+
+.fail {
+    color: rgb(255, 9, 62);
+}
+
+#future {
+    margin-top: 50px;
+    color: rgb(255, 247, 9);
+}
+
+#coming-soon {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
